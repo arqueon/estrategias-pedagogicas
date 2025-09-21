@@ -29,7 +29,7 @@ echo "--------------------------------------------------------------------------
 echo "this is project https://github.com/arqueon/"$project
 echo "-----------------------------------------------------------------------------"
 git config --global pull.rebase false
-git config --global user.name "Ruben Garcia"
+git config --global user.name "arqueon"
 git config --global user.email "arqueonautis@gmail.com"
 sudo git config --system core.editor nano
 #git config --global credential.helper cache

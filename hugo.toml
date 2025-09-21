@@ -1,3 +1,42 @@
-baseURL = ''
-languageCode = 'es-mx'
-title = 'Estrategias pedagógicas'
+baseURL = "https://example.com/"
+title = "Estrategias pedagógicas"
+author = "UDGPlus"
+copyright = "UDGPlus"
+pagination.pagerSize = 10
+languageCode = "es"
+theme = "tailwind"
+
+[markup]
+  _merge = "deep"
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  [params.header]
+    logo = "logo.webp"
+    title = ""
+
+  [params.footer]
+    since = 2023
+    poweredby = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
