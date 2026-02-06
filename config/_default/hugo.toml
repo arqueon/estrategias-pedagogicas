@@ -67,3 +67,8 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[server]
+  watch = true
+  bind = "0.0.0.0"
+  disableFastRender = true

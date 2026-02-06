@@ -2,7 +2,7 @@ disabled = false
 languageCode = "sp"
 languageName = "Spanish"
 weight = 1
-title = "Estrategias de aprendizaje digital e inteligencia artificial"
+title = "Aprendizaje digital e IA"
 
 [params]
   displayName = "EN"
