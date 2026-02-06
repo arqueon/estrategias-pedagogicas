@@ -6,6 +6,7 @@ cascade:
   showDate: false
   showDateUpdated: false
   showTableOfContents: true
+  showCards: true
   layout: "list"
 ---
 Documentos normativos y acuerdos clave para nuestra comunidad.

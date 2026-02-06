@@ -6,6 +6,7 @@ cascade:
   showDate: false
   showDateUpdated: false
   showTableOfContents: true
+  showCards: true
   layout: "list"
 ---
 Accede a las herramientas tecnológicas disponibles para tu desarrollo académico.

@@ -6,6 +6,7 @@ cascade:
   showDate: false
   showDateUpdated: false
   showTableOfContents: true
+  showCards: true
   layout: "list"
 ---
 Fomentando un uso ético y responsable de la tecnología en el entorno educativo.

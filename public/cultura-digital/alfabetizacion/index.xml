@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alfabetización Digital on Aprendizaje digital e IA</title>
-    <link>http://localhost:34265/cultura-digital/alfabetizacion/</link>
+    <link>//localhost:1313/cultura-digital/alfabetizacion/</link>
     <description>Recent content in Alfabetización Digital on Aprendizaje digital e IA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sp</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="http://localhost:34265/cultura-digital/alfabetizacion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/cultura-digital/alfabetizacion/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
